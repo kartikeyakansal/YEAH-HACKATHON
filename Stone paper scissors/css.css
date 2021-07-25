@@ -1,0 +1,29 @@
+.body{
+    text-align: center;
+    margin: 20px;
+}
+#player-image{
+    float: left;
+    margin: 120px;
+}
+#cpu-image{
+    float: right;
+    margin: 120px;
+}
+.result{
+    text-align: center;
+    margin-top: 300px;
+}
+button{
+    margin-right: 10px;
+    padding: 10px;
+    background-color: chartreuse;
+    color: darkmagenta;
+}
+p{
+    font-size: 30px;
+    color: blue;
+}
+img{
+    border-radius: 50%;
+}
